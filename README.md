@@ -64,10 +64,12 @@
 - [ ] Basic Usage
 - [ ] Repo hosting services: Github, GitLab, Bitbucket.
 
+<br>
 
 ### CSS Architecture & Preprocessors (Basic knowledge)
 - [ ] BEM, Sass, PostCSS
 
+<br>
 
 ### Web Security (Basic knowledge)
 - [ ] HTTPS
