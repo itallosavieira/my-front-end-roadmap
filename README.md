@@ -58,6 +58,7 @@
 - [ ] Custom Elements
 - [ ] Shadow DOM
 
+<br>
 
 ### Git
 - [ ] Basic Usage
