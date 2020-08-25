@@ -44,5 +44,30 @@
 
 
 ## Package Managers
-- [ ] 
+- [ ] npm
+- [ ] yarn
 
+
+## CSS Architecture & Preprocessors (Basic knowledge)
+- [ ] BEM, Sass, PostCSS
+
+
+## Build Tools
+- [ ] Task Runners: npm script
+- [ ]  Linters and Formatters: Prettier, ESLint
+- [ ] Module Bundlers: Webpack, Rollup, Parcel
+
+
+## Framework
+- [ ] React.js: Basics, Redux.
+
+
+## Modern CSS
+- [ ] Styled Components
+- [ ] CSS Modules
+
+
+## Web Components
+- [ ] HTML Templates
+- [ ] Custom Elements
+- [ ] Shadow DOM
