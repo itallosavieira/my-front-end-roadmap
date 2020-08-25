@@ -31,35 +31,21 @@
 - [ ] Understand the concepts: Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, Strict.
 
 
-## Git
-- [ ] Basic Usage
-- [ ] Repo hosting services: Github, GitLab, Bitbucket.
-
-
-## Web Security (Basic knowledge)
-- [ ] HTTPS
-- [ ] Content Security Policy
-- [ ] CORS
-- [ ] OWASP Security RISKS
-
-
 ## Package Managers
 - [ ] npm
 - [ ] yarn
 
 
-## CSS Architecture & Preprocessors (Basic knowledge)
-- [ ] BEM, Sass, PostCSS
-
-
 ## Build Tools
 - [ ] Task Runners: npm script
-- [ ]  Linters and Formatters: Prettier, ESLint
+- [ ] Linters and Formatters: Prettier, ESLint
 - [ ] Module Bundlers: Webpack, Rollup, Parcel
 
 
-## Framework
-- [ ] React.js: Basics, Redux.
+## React.js
+- [ ] Basics
+- [ ] Server Side Rendering: Next.js
+- [ ] Static Site Generators: Next.js, GatsbyJS
 
 
 ## Modern CSS
@@ -71,3 +57,19 @@
 - [ ] HTML Templates
 - [ ] Custom Elements
 - [ ] Shadow DOM
+
+
+### Git
+- [ ] Basic Usage
+- [ ] Repo hosting services: Github, GitLab, Bitbucket.
+
+
+### CSS Architecture & Preprocessors (Basic knowledge)
+- [ ] BEM, Sass, PostCSS
+
+
+### Web Security (Basic knowledge)
+- [ ] HTTPS
+- [ ] Content Security Policy
+- [ ] CORS
+- [ ] OWASP Security RISKS
