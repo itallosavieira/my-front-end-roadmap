@@ -11,7 +11,7 @@
  
  
 ## HTML
- - [ ] Basics
+ - [x] Basics
  - [ ] Accessibility
  - [ ] Forms and Validations
  - [ ] SEO basics
