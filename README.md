@@ -18,7 +18,7 @@
  
  
 ## CSS
-- [ ] Basics
+- [x] Basics
 - [ ] Layouts (Display, Box Model, Grid, Flexbox)
 - [ ] Responsive Design and Media Queries
 
